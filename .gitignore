@@ -1,0 +1,8 @@
+output/
+
+fouriertest.py
+fouriertest2.py
+projectionSimulator.py
+
+*.bmp
+
